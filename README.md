@@ -20,7 +20,7 @@ O projeto foi finalizado utilizando as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/daancorrea">
-        <img src="https://avatars.githubusercontent.com/u/81574142?v=4" width="100px;" alt="Foto do Daniel Correa no GitHub"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEbC9libxmoNQ/profile-displayphoto-shrink_800_800/0/1625921998499?e=1631145600&v=beta&t=Y813CZG6haaVTSBNENtBc1aLkXvFaI64X2D-ay6sWPQ" width="100px;" alt="Foto do Daniel Correa no GitHub"/><br>
         <sub>
           <b>Daniel Correa</b>
         </sub>
